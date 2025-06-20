@@ -1,0 +1,17 @@
+.home-card {
+	border: 1px solid var(--color-border);
+	box-shadow: 0 8px 25px rgba(0, 207, 255, 0.3);
+	border-radius: 12px;
+	padding: 24px;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.home-card:hover {
+	border-color: var(--color-accent-foreground);
+	transform: scale(1.02);
+}
+
+.home-img {
+	width: 100%;
+	height: auto;
+}

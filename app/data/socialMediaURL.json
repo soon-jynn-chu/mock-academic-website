@@ -1,0 +1,22 @@
+[
+    {
+        "media": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "color": "#0077b5"
+    },
+    {
+        "media": "github",
+        "url": "https://www.github.com/",
+        "color": "white"
+    },
+    {
+        "media": "googlescholar",
+        "url": "https://scholar.google.com",
+        "color": "#4285f4"
+    },
+    {
+        "media": "orcid",
+        "url": "https://orcid.org",
+        "color": "#a6ce39"
+    }
+]

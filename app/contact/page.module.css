@@ -1,0 +1,10 @@
+.google-form {
+    width: 100%;
+    min-height: 70vh;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 207, 255, 0.3),
+        inset 0 0 15px rgba(0, 207, 255, 0.1);
+    background-color: var(--color-background-secondary);
+    transition: box-shadow 0.3s ease;
+}
